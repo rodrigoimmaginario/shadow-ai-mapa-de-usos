@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+.venv/
+.env
+.env.*
+~$*
+*.mp4
+*.mkv
+*.wav
+*.mp3
+*.ogg
+*.log
+*.bak
+*.tmp
+capturas/
+diagnosticos/
+preenchidos/
